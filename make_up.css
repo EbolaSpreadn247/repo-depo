@@ -1,0 +1,15 @@
+body{
+    color:greenyellow;
+    background-color: #8822BB;
+}
+
+textarea{
+    resize: none;
+    white-space: nowrap;
+    overflow-x: hidden;
+}
+
+button{
+    background-color: #36393e;
+    border-color: #36393e;
+}
